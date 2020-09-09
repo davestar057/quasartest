@@ -11,8 +11,6 @@ module.exports = function (/* ctx */) {
     // https://quasar.dev/quasar-cli/supporting-ts
     supportTS: false,
 
-    BASE_URL: 'test',
-
     // https://quasar.dev/quasar-cli/prefetch-feature
     // preFetch: true,
 
@@ -22,7 +20,7 @@ module.exports = function (/* ctx */) {
     boot: [
 
       'axios',
-      {path: 'router', server: false},
+      'router',
     ],
 
     // https://quasar.dev/quasar-cli/quasar-conf-js#Property%3A-css
