@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7721815d-3e36-4900-983c-f6f985b56b3f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/pages/Logs.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/spa/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/spa/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/spa/js/app.6d6dc843.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/js/2.1dc4c5e0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/js/7.2024788c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/js/app.884cd33a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/js/vendor.5d815431.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/quasar.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/quasar.conf.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/boot/axios.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/boot/axios.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/AppLayout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/AppLayout.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/routes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,17 +38,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pages" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/statics" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -61,7 +69,7 @@
       <workItem from="1599602326255" duration="22852000" />
       <workItem from="1599663137750" duration="377000" />
       <workItem from="1599663561663" duration="406000" />
-      <workItem from="1599664060363" duration="2490000" />
+      <workItem from="1599664060363" duration="5112000" />
     </task>
     <servers />
   </component>

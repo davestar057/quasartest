@@ -38,6 +38,17 @@ const routes = [
           }
         }
       },
+      {
+        path: 'logs',
+        component: () => import('pages/Logs.vue'),
+        beforeEnter(to, from, next) {
+          if (!Store.getters['auth/authenticated']) {
+            next({path: '/'})
+          } else {
+            next()
+          }
+        }
+      },
 
     ],
   },

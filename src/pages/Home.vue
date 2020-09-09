@@ -29,8 +29,12 @@ export default {
 
   methods: {
     loadDates() {
+      this.$q.loading.show()
+
       this.$axios.get('api/bankholidays/list').then(response => {
         this.bankHolidays = response.data.data
+        this.$q.loading.hide()
+
       })
 
     },

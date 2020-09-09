@@ -4,8 +4,10 @@
       <q-toolbar class="bg-secondary text-white shadow-2">
         <div class="text-h4" v-if="CurrentUser">Welcome <b>{{ CurrentUser.name }}</b></div>
         <q-space />
+        <q-btn active  label="Bank Holidays" no-caps  unelevated flat to="/dashboard/home" />
+        <q-btn  label="User Logs" no-caps  unelevated flat to="/dashboard/logs"  />
 
-        <q-btn  label="Logout" no-caps  unelevated icon-right="exit_to_app" color="black" @click="signOutAction"  />
+        <q-btn label="Logout" no-caps  unelevated icon-right="exit_to_app" color="black" @click="signOutAction"  />
       </q-toolbar>
 
 
