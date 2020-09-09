@@ -5,7 +5,7 @@
       <div class="row text-center">
 
         <q-card bordered class="q-pa-lg shadow-1 login-card" style="width:100%">
-          <h5 class="text-h3  q-my-md text-center">Holiday Log</h5>
+          <h3 class="text-h3  q-my-md text-center">Login</h3>
 
           <q-card-section>
             <q-form class="q-gutter-md">

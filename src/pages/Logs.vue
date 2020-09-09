@@ -2,7 +2,7 @@
   <q-page padding>
     <q-card class="my-card">
       <q-card-section>
-        <h2>User Activity Logs</h2>
+        <h4>User Activity Logs</h4>
         <q-list bordered separator>
         <q-item clickable v-ripple v-for="activity in activityLogs" :key="activity.created_at">
           <q-item-section>

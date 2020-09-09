@@ -7,7 +7,7 @@ axios.defaults.withCredentials = true;
 axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 
 const axiosInstance  = axios.create({
-  baseURL: 'https://quasarapi.kabaddle.com/'
+  baseURL: 'http://api.quasar.test/'
 })
 
 

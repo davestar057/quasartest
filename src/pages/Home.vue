@@ -2,7 +2,7 @@
   <q-page padding>
     <q-card class="my-card">
       <q-card-section>
-        <h2>Bank Holidays 2020</h2>
+        <h4>Bank Holidays</h4>
         <q-list bordered separator>
         <q-item clickable v-ripple v-for="date in bankHolidays" :key="date.date">
           <q-item-section>
