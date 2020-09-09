@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="7721815d-3e36-4900-983c-f6f985b56b3f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/spa/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/js/app.6d6dc843.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/quasar.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/quasar.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/boot/axios.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/boot/axios.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +60,7 @@
       <workItem from="1599602326255" duration="22852000" />
       <workItem from="1599663137750" duration="377000" />
       <workItem from="1599663561663" duration="406000" />
-      <workItem from="1599664060363" duration="1315000" />
+      <workItem from="1599664060363" duration="2416000" />
     </task>
     <servers />
   </component>
