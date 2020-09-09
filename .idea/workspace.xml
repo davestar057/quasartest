@@ -6,6 +6,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/spa/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/spa/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/spa/js/2.1dc4c5e0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/js/5.bbde97ac.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/spa/js/7.2024788c.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/spa/js/app.884cd33a.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/spa/js/vendor.5d815431.js" beforeDir="false" />
@@ -69,7 +70,7 @@
       <workItem from="1599602326255" duration="22852000" />
       <workItem from="1599663137750" duration="377000" />
       <workItem from="1599663561663" duration="406000" />
-      <workItem from="1599664060363" duration="5112000" />
+      <workItem from="1599664060363" duration="5368000" />
     </task>
     <servers />
   </component>
