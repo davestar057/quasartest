@@ -4,6 +4,7 @@
     <list default="true" id="7721815d-3e36-4900-983c-f6f985b56b3f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quasar.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/quasar.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boot/axios.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/boot/axios.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,7 @@
       <workItem from="1599602326255" duration="22852000" />
       <workItem from="1599663137750" duration="377000" />
       <workItem from="1599663561663" duration="406000" />
-      <workItem from="1599664060363" duration="988000" />
+      <workItem from="1599664060363" duration="1315000" />
     </task>
     <servers />
   </component>
@@ -70,10 +71,10 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="469" y="190" key="SettingsEditor/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1599563212480" />
-    <state x="630" y="292" width="659" height="518" key="find.popup" timestamp="1599663602056">
+    <state x="630" y="292" width="659" height="518" key="find.popup" timestamp="1599665757216">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="630" y="292" width="659" height="518" key="find.popup/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1599663602056" />
+    <state x="630" y="292" width="659" height="518" key="find.popup/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1599665757216" />
     <state x="2393" y="426" width="703" height="518" key="find.popup/1920.203.1440.877/0.23.1920.1057@1920.203.1440.877" timestamp="1599644684233" />
     <state x="625" y="256" key="run.anything.popup" timestamp="1599656827699">
       <screen x="0" y="23" width="1920" height="1057" />
