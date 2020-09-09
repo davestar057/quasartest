@@ -1,0 +1,20 @@
+import Vue from 'vue'
+import axios from 'axios'
+import {Store} from "src/store";
+
+Vue.prototype.$axios = axios
+axios.defaults.withCredentials = true;
+axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
+
+const axiosInstance  = axios.create({
+  baseURL: 'https://quasarapi.kabaddle.com/'
+})
+
+
+// for use inside Vue files through this.$axios
+Vue.prototype.$axios = axiosInstance
+
+// Here we define a named export
+// that we can later use inside .js files:
+export { axiosInstance }
+
